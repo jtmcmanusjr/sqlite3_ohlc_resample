@@ -1,7 +1,7 @@
 # sqlite3_ohlc_resample
 ## In sqlite3, resample OHLC data into larger time-intervals, mimicking pandas' dataframe.resample
 
-License Note: I chose "GNU Public something" in the repo-setup but I don't really know all the nuances and deltas from the other license-types. My intention is that anyone should be able to use this code-base, literally as-is or to modify.
+License Note: I chose "GNU Public something" in the repo-setup but I don't really know all the nuances and deltas from the other license-types. My intention is that anyone should be able to use this material, whether as-is (hah!) or as the basis for something else entirely.
 
 NEED:
 Given an sqlite database with some minute-based OHLC data, produce a table of OHLC data in 2-hour (or 5-minute, or 3-day, etc.) buckets. (Python and pandas make this super-easy, but I'm not USING python and pandas...)
