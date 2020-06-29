@@ -11,8 +11,8 @@ Solution came in two parts.
   First, a GROUP BY directive to make time-based buckets.
   Second, custom sqlite functions to get first (ie, "open") and last (ie, "close") values from each bucket.
 
-Gratitude and props for the inspiration and guidance from
-http://souptonuts.sourceforge.net/readme_sqlite_tutorial.html
-https://www.sqlite.org/c3ref/value_blob.html
-https://stackoverflow.com/a/45729390
+Gratitude and props for the inspiration and guidance from <br>
+http://souptonuts.sourceforge.net/readme_sqlite_tutorial.html <br>
+https://www.sqlite.org/c3ref/value_blob.html <br>
+https://stackoverflow.com/a/45729390 <br>
 
